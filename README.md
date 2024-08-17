@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Hotel Management](https://github.com/Arpanprmnik/project-frontend)
 
-- 🌱 I’m currently learning **C, C++, HTML, JavaScript, CSS, Java, Python, SQL**
+- 🌱 I’m currently learning **HTML, JavaScript, CSS, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arpanprmnik](https://github.com/Arpanprmnik)
 
