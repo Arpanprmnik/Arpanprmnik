@@ -19,12 +19,12 @@ Here are some of the projects I've worked on:
 
 I regularly practice coding and algorithm challenges. You can check out my profiles on these platforms:
 
-- **[LeetCode]([https://leetcode.com/your-profile-link](https://leetcode.com/u/arpanpramanik219/))**
+- **[LeetCode](https://leetcode.com/u/arpanpramanik219/)**
 - **[HackerRank](https://www.hackerrank.com/your-profile-link)**
 
 ## Let's Connect
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/arpan-pramanik-621635267/)) for collaboration, networking, or just to say hi!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arpan-pramanik-621635267/) for collaboration, networking, or just to say hi!
 
 ## Get In Touch
 
