@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanprmnik&label=Profile%20views&color=0e75b6&style=flat" alt="arpanprmnik" /> </p>
 
-- 🔭 I’m currently working on [Hotel Management](https://github.com/Arpanprmnik/project-frontend)
+- 🔭 I’m currently working on a front end [Hotel Management](https://github.com/Arpanprmnik/project-frontend)
 
 - 🌱 I’m currently learning **HTML, JavaScript, CSS, Java**
 
